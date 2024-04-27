@@ -1,0 +1,2 @@
+1. The bug was that instead of adding the numbers it was concatenating the numbers as characters of a string so 1 + 2 was "12"
+2. In order to fix this, you can change the line let result = num1 + num2; to let result = parseFloat(num1) + parseFloat(num2);. By doing this, num1 and num2 are being converted into float numbers so using the + operator adds them instead of concatenating strings
