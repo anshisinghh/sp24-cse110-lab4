@@ -1,5 +1,5 @@
 1. The name of the new json file is citylots.json
-2. The file that initiated the download of the new file is expose.js:4
+2. The file that initiated the download of the new file is expose.js
 3. The size of the file is 779 kB
 4. It took 592 ms to download
 5. The User-Agent for the browser that made the request was Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
